@@ -5,5 +5,9 @@ This Repository is for meeting room using keras cv and yolov8
 ## 1.  Results in Database
 ![Uji di local](./dokumentasi/1.png)
 
-2. Screenshot 2023-12-15 at 01.31.16.png -> API Server Response
-3. Screenshot 2023-12-15 at 01.31.32.png -> Postman Capture
+## 2. API Server Response
+![Uji di local](./dokumentasi/2.png)
+
+## 3. Postman Capture
+![Uji di local](./dokumentasi/3.png)
+
